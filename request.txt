@@ -1,0 +1,6 @@
+requests
+opencv-python
+numpy
+pywin32
+pillow
+arcade
